@@ -1,0 +1,6 @@
+SQL Assignment Answer
+
+I have created a snowflake trial account. 
+Following is the shareable link for my work on the worksheet.
+
+https://app.snowflake.com/europe-west4.gcp/tq14378/w12FUBqCvyDx#query
